@@ -1,0 +1,7 @@
+﻿  Casino.cpp
+d:\документы\github\a\casino\casino\casino.cpp(11): warning C4101: variant: неиспользованная локальная переменная
+d:\документы\github\a\casino\casino\casino.cpp(34): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\документы\github\a\casino\casino\casino.cpp(20): warning C4101: Try: неиспользованная локальная переменная
+d:\документы\github\a\casino\casino\casino.cpp(20): warning C4101: wins: неиспользованная локальная переменная
+d:\документы\github\a\casino\casino\casino.cpp(20): warning C4101: loses: неиспользованная локальная переменная
+  Casino.vcxproj -> D:\Документы\GitHub\a\Casino\Debug\Casino.exe
